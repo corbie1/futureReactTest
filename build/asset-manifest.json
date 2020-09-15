@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/futureReactTest/static/css/main.146b9cc1.chunk.css",
+    "main.js": "/futureReactTest/static/js/main.0bc4fb8c.chunk.js",
+    "main.js.map": "/futureReactTest/static/js/main.0bc4fb8c.chunk.js.map",
+    "runtime-main.js": "/futureReactTest/static/js/runtime-main.3f0a5d42.js",
+    "runtime-main.js.map": "/futureReactTest/static/js/runtime-main.3f0a5d42.js.map",
+    "static/js/2.641b2a07.chunk.js": "/futureReactTest/static/js/2.641b2a07.chunk.js",
+    "static/js/2.641b2a07.chunk.js.map": "/futureReactTest/static/js/2.641b2a07.chunk.js.map",
+    "index.html": "/futureReactTest/index.html",
+    "precache-manifest.cd5ac1f705f831aab87abab9ee06c888.js": "/futureReactTest/precache-manifest.cd5ac1f705f831aab87abab9ee06c888.js",
+    "service-worker.js": "/futureReactTest/service-worker.js",
+    "static/css/main.146b9cc1.chunk.css.map": "/futureReactTest/static/css/main.146b9cc1.chunk.css.map",
+    "static/js/2.641b2a07.chunk.js.LICENSE.txt": "/futureReactTest/static/js/2.641b2a07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0a5d42.js",
+    "static/js/2.641b2a07.chunk.js",
+    "static/css/main.146b9cc1.chunk.css",
+    "static/js/main.0bc4fb8c.chunk.js"
+  ]
+}
