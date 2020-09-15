@@ -1,0 +1,11 @@
+/* eslint-disable */
+export const ActionType = {
+  FETCH_INITIAL_DATA: 'FETCH_INITIAL_DATA',
+  SET_DATA: 'SET_DATA',
+  GET_DATA: 'GET_DATA',
+  SORT_DATA: 'SORT_DATA',
+  ADD_USER: 'ADD_USER',
+  FILTER_USER: 'FILTER_USER',
+  CLEAR: 'CLEAR',
+  REMOVE_USER: 'REMOVE_USER',
+}
